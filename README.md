@@ -87,19 +87,7 @@ Optimization effectiveness varies based on:
 - Instruction set support (AVX-512, AVX2)
 - Memory bandwidth and cache hierarchy
 
-## Citation
 
-If you use this framework in your research, please cite:
-
-```
-@misc{deeplearning-optimization-framework,
-  author = {Your Name},
-  title = {Deep Learning Model Optimization & Performance Benchmarking Framework},
-  year = {2025},
-  publisher = {GitHub},
-  url = {https://github.com/yourusername/dl-model-optimization}
-}
-```
 
 ## License
 
